@@ -1,0 +1,7 @@
+#ifndef VITA3K_FORK_BUILD_H
+#define VITA3K_FORK_BUILD_H
+
+#define FORK_BUILD_SEQ 0
+#define FORK_BUILD_CHANGES ""
+
+#endif // VITA3K_FORK_BUILD_H
